@@ -18,16 +18,16 @@ My goal is to predict to predict what would be current month's loan status, give
 
 application_record.csv		
 
-ID	Client = number	
-CODE_GENDER	= Gender	
-FLAG_OWN_CAR	= Is there a car	
-FLAG_OWN_REALTY	= Is there a property	
-CNT_CHILDREN	= Number of children	
-AMT_INCOME_TOTAL	= Annual income	
-NAME_INCOME_TYPE	= Income category	
-NAME_EDUCATION_TYPE	= Education level	
-NAME_FAMILY_STATUS	= Marital status	
-NAME_HOUSING_TYPE	= Way of living	
+ID	Client = number	<br />
+CODE_GENDER	= Gender	<br />
+FLAG_OWN_CAR	= Is there a car	<br />
+FLAG_OWN_REALTY	= Is there a property	<br />
+CNT_CHILDREN	= Number of children	<br />
+AMT_INCOME_TOTAL	= Annual income	<br />
+NAME_INCOME_TYPE	= Income category	<br />
+NAME_EDUCATION_TYPE	= Education level	<br />
+NAME_FAMILY_STATUS	= Marital status	<br />
+NAME_HOUSING_TYPE	= Way of living	<br />
 DAYS_BIRTH	= Birthday	(Count backwards from current day (0), -1 means yesterday)
 DAYS_EMPLOYED	= Start date of employment	(Count backwards from current day(0). If positive, it means the person currently unemployed.)
 FLAG_MOBIL	= Is there a mobile phone	
